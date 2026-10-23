@@ -1,0 +1,10 @@
+body{
+    background-color: beige;
+
+}
+h1{
+    background-color: rgb(194, 146, 190);
+    height: 120px;
+    width: 200px;
+    border-radius: 10%;
+}
